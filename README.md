@@ -34,7 +34,7 @@ Import library python biasanya dilakukan di awal sebuah projek. Library yang aka
 
 ## Exploring data part 1
 
-![alt text](?raw=true)
+![alt text](https://github.com/muhammadrafi18/Fitur_Engineering_untuk_Modelling/blob/main/Slide1.JPG?raw=true)
 
 Dari plot yang dihasikan dapat terlihat,
 
@@ -52,7 +52,7 @@ Orang yang membawa 2 Sibling/Spouse kemungkinan selamatnya cukup kecil.
 
 ## Exploring data part 2
 
-
+![alt text](https://github.com/muhammadrafi18/Fitur_Engineering_untuk_Modelling/blob/main/Slide2.JPG?raw=true)
 
 Untuk Data Fare dan Age, akan membaginya ke dalam beberapa Bin/Group.
 
@@ -81,7 +81,7 @@ Jadi tidak ada aturan baku yang mengatur jumlah bins tersebut.
 
 ## Feature Engineering - Part 1
 
-
+![alt text](https://github.com/muhammadrafi18/Fitur_Engineering_untuk_Modelling/blob/main/Slide3.JPG?raw=true)
 
 Feature Engineering adalah tentang membuat fitur baru dari fitur yang sudah ada.
 Membuat beberapa fitur baru yang bertujuan menaikkan akurasi dari model machine learning kita.
@@ -96,11 +96,11 @@ Kategorinya adalah seperti berikut.
 
 Buat feature baru bernama Ticket_Frequency dengan nilai gabungan dari Ticket yang sama. 
 
-
+![alt text](https://github.com/muhammadrafi18/Fitur_Engineering_untuk_Modelling/blob/main/Slide4.JPG?raw=true)
 
 ## Feature Engineering - Part 3
 
-
+![alt text](https://github.com/muhammadrafi18/Fitur_Engineering_untuk_Modelling/blob/main/Slide5.JPG?raw=true)
 
 Mengelompokkannya menjadi satu pada konten berikutnya
 

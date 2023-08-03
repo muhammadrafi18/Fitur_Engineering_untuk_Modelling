@@ -34,7 +34,7 @@ Import library python biasanya dilakukan di awal sebuah projek. Library yang aka
 
 ## Exploring data part 1
 
-
+![alt text](?raw=true)
 
 Dari plot yang dihasikan dapat terlihat,
 

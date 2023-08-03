@@ -32,7 +32,7 @@ Import library python biasanya dilakukan di awal sebuah projek. Library yang aka
 2. Q = Queenstown
 3. S = Southampton
 
-## Exploring Data
+## Exploring data part 1
 
 
 
